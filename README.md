@@ -1,2 +1,2 @@
 # TheSilverBullet
-Windows Troubleshooting Automatic for Help Desk Technicians
+Windows Troubleshooting Automation for Help Desk Technicians
